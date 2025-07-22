@@ -1,6 +1,6 @@
 # Dynamic Web Table Automation
 
-This project automates a dynamic web table using Selenium WebDriver and Java.
+This script automates a dynamic web table using Selenium WebDriver and Java.
 
 ## What it does
 
